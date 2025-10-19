@@ -7,8 +7,10 @@
 - **Port:** 2220
 
 ## Quick Start Commands
-- SSH into the Bandit server for level 0
+- **SSH into the Bandit server for level 0**
+```bash
 ssh bandit0@bandit.labs.overthewire.org -p 2220
+```
 
 ## Authentication
 - When prompted for the password, enter the Level 0 password (available on the OverTheWire website).
