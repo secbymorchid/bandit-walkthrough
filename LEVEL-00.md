@@ -1,4 +1,4 @@
-# Bandit — Level 0
+# Bandit — Level 00
 
 ## Level Information
 - **Level:** 0
