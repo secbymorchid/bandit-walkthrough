@@ -39,7 +39,7 @@ cat readme
 
 - Passwords are not saved automatically - keep your own notes
 
- ##TIP 
+ ## TIP 
  - Create a secure file on your local machine to store all level passwords and solution notes!
 
 -  Passwords may change, so document your solution process
