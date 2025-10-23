@@ -16,12 +16,12 @@ The password for the next level is stored in a file `readme` in the homedirector
 ssh bandit18@bandit.labs.overthewire.org -p 2220 "cat readme"
 ```
 Output: Contains the password for bandit19
-### Commands Used
+### Commands Used
 
-    - ssh bandit18@bandit.labs.overthewire.org -p 2220 "cat readme" - Execute remote command directly without interactive shell
+    - ssh bandit18@bandit.labs.overthewire.org -p 2220 "cat readme" / Execute remote command directly without interactive shell
 
 ## Important Concepts
-### Non-Interactive SSH
+### Non-Interactive SSH
 
     - Running commands directly via SSH avoids the interactive shell
 
