@@ -2,7 +2,7 @@
 
 
 ## Level Information
-- **Level:** 25 → 26
+- **Level:** 27 → 28
 - **Username:** bandit25
 - **Host:** bandit.labs.overthewire.org
 - **Port:** 2220
