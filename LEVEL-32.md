@@ -54,6 +54,6 @@ Output from git push contains the password for bandit32
 
 - git add -f forces addition of ignored files
 
-Push triggers remote hook that reveals password
+- Push triggers remote hook that reveals password
 
-Shows server-side git hooks and their security implications
+- Shows server-side git hooks and their security implications
