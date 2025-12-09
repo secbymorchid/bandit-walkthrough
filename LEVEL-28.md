@@ -1,4 +1,4 @@
-#Bandit Level 27 → Level 28
+# Bandit Level 27 → Level 28
 
 
 ## Level Information
